@@ -1,4 +1,4 @@
-# Voting_System_Python_Project
+# Voting System Python Project
 # Description 
 The purpose of the voting system project is to develop a digital platform that facilitates fair, transparent, and efficient voting processes. The project aims to address common challenges associated with traditional voting methods by providing a user-friendly interface for voters to cast their votes securely and accurately.
 
